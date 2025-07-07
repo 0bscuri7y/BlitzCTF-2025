@@ -1,5 +1,3 @@
-# Untitled
-
 # Hidden?
 
 ![Hidden_Solve.png](Hidden_Solve.png)
