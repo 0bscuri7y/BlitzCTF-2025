@@ -1,4 +1,4 @@
-# CTF Writeup: IoT is Hard
+# CTF Writeup: IoT Sucks
 
 ### Challenge Description
 The challenge involved decoding a Morse code signal transmitted by an LED in a video file called `iot.mkv`. The LED blinks in patterns that represent Morse code characters, but standard Morse decoders fail due to timing irregularities and implementation bugs in the Arduino code controlling the LED.
